@@ -1,6 +1,6 @@
-/*! PhotoSwipe - v4.1.3 - 2019-01-08
+/*! PhotoSwipe - v4.1.3 - 2023-11-23
 * http://photoswipe.com
-* Copyright (c) 2019 Dmitry Semenov; */
+* Copyright (c) 2023 Dmitry Semenov; */
 (function (root, factory) { 
 	if (typeof define === 'function' && define.amd) {
 		define(factory);
